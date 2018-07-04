@@ -1,0 +1,167 @@
+# depslib dependency file v1.0
+1489505839 source:e:\my stydy material\01c++ tutorials\project\milan's table\login.cpp
+	"login.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+
+1489505839 e:\my stydy material\01c++ tutorials\project\milan's table\login.h
+	<string>
+	<iostream>
+
+1489855941 source:e:\my stydy material\01c++ tutorials\project\milan's table\loginmain.cpp
+	"projectdatabase.h"
+	"login.h"
+	"projectdatabase.h"
+	"hotel.h"
+	"table.h"
+	<iostream>
+	<string>
+	<windows.h>
+	<conio.h>
+	"GLOBAL.h"
+	<stdlib.h>
+	<fstream>
+	<iomanip>
+
+1489578528 e:\my stydy material\01c++ tutorials\project\milan's table\projectfooditem.h
+	<string>
+
+1489669812 e:\my stydy material\01c++ tutorials\project\milan's table\projectdatabase.h
+	"projectfooditem.h"
+
+1489849602 e:\my stydy material\01c++ tutorials\project\milan's table\global.h
+	"projectdatabase.h"
+
+1385316878 source:e:\my stydy material\01c++ tutorials\project\milan's table\main.cpp
+	<iostream>
+
+1489850252 source:e:\my stydy material\01c++ tutorials\project\milan's table\milan'stable.cpp
+	"table.h"
+	"GLOBAL.h"
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	<iomanip>
+
+1489849782 e:\my stydy material\01c++ tutorials\project\milan's table\table.h
+	<ctime>
+
+1489751628 source:e:\my stydy material\01c++ tutorials\project\milan's table\projectdatabase.cpp
+	"projectdatabase.h"
+	"projectfooditem.h"
+	<iostream>
+	<stdlib.h>
+	<algorithm>
+	<windows.h>
+	<iomanip>
+	<fstream>
+
+1489580144 source:e:\my stydy material\01c++ tutorials\project\milan's table\projectfooditem.cpp
+	"projectfooditem.h"
+	<iostream>
+	<windows.h>
+	<iomanip>
+	<fstream>
+
+1489856941 source:e:\my stydy material\01c++ tutorials\project\milan's table\hotel.cpp
+	<iostream>
+	"hotel.h"
+	"table.h"
+	"GLOBAL.h"
+	<stdlib.h>
+	<fstream>
+	<conio.h>
+	<iomanip>
+
+1489856941 e:\my stydy material\01c++ tutorials\project\milan's table\hotel.h
+	"table.h"
+
+1489554584 e:\my stydy material\01c++ tutorials\project\milan's table\milan'stable.cpp
+	"table.h"
+	<fstream>
+	"GLOBAL.h"
+	<iostream>
+	<stdlib.h>
+
+1489861543 source:e:\my stydy material\01c++ tutorials\project\c++ projects\hotel.cpp
+	<iostream>
+	"hotel.h"
+	"table.h"
+	"GLOBAL.h"
+	<stdlib.h>
+	<fstream>
+	<conio.h>
+	<iomanip>
+
+1489856941 e:\my stydy material\01c++ tutorials\project\c++ projects\hotel.h
+	"table.h"
+
+1489849782 e:\my stydy material\01c++ tutorials\project\c++ projects\table.h
+	<ctime>
+
+1489849602 e:\my stydy material\01c++ tutorials\project\c++ projects\global.h
+	"projectdatabase.h"
+
+1489669812 e:\my stydy material\01c++ tutorials\project\c++ projects\projectdatabase.h
+	"projectfooditem.h"
+
+1489578528 e:\my stydy material\01c++ tutorials\project\c++ projects\projectfooditem.h
+	<string>
+
+1489505839 source:e:\my stydy material\01c++ tutorials\project\c++ projects\login.cpp
+	"login.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+
+1489505839 e:\my stydy material\01c++ tutorials\project\c++ projects\login.h
+	<string>
+	<iostream>
+
+1489861719 source:e:\my stydy material\01c++ tutorials\project\c++ projects\projectdatabase.cpp
+	"projectdatabase.h"
+	"projectfooditem.h"
+	<iostream>
+	<stdlib.h>
+	<algorithm>
+	<windows.h>
+	<iomanip>
+	<fstream>
+
+1489580144 source:e:\my stydy material\01c++ tutorials\project\c++ projects\projectfooditem.cpp
+	"projectfooditem.h"
+	<iostream>
+	<windows.h>
+	<iomanip>
+	<fstream>
+
+1489850252 source:e:\my stydy material\01c++ tutorials\project\c++ projects\table.cpp
+	"table.h"
+	"GLOBAL.h"
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	<iomanip>
+
+1489859327 source:e:\my stydy material\01c++ tutorials\project\c++ projects\main.cpp
+	"projectdatabase.h"
+	"login.h"
+	"projectdatabase.h"
+	"hotel.h"
+	"table.h"
+	<iostream>
+	<string>
+	<windows.h>
+	<conio.h>
+	"GLOBAL.h"
+	<stdlib.h>
+	<fstream>
+	<iomanip>
+
