@@ -1,4 +1,4 @@
-# C-Project
+# C++-Project
 This project is uploaded to github two years later
 It is a hotel management system implemented in C++ without gui
 It actually has two previliage one for the owner and other for the staff.
